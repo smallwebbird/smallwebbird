@@ -1,0 +1,30 @@
+{
+  "name": "@smallwebbird/create",
+  "version": "1.0.0",
+  "description": "脚手架初始化",
+  "keywords": [
+    "init"
+  ],
+  "author": "smallwebbird <1175543548@qq.com>",
+  "homepage": "https://github.com/smallwebbird/smallwebbird#readme",
+  "license": "ISC",
+  "main": "lib/smallwebbird-create.js",
+  "bin": "bin/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smallwebbird/smallwebbird.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/smallwebbird/smallwebbird/issues"
+  }
+}
