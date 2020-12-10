@@ -1,0 +1,26 @@
+{
+  "name": "@smallwebbird/test",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "smallwebbird <1175543548@qq.com>",
+  "homepage": "https://github.com/smallwebbird/smallwebbird#readme",
+  "license": "ISC",
+  "main": "lib/smallwebbird-test.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smallwebbird/smallwebbird.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/smallwebbird/smallwebbird/issues"
+  }
+}
