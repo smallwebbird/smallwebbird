@@ -1,0 +1,11 @@
+{
+  "name": "smallwebbird",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
