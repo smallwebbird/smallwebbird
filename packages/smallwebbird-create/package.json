@@ -1,6 +1,6 @@
 {
   "name": "@smallwebbird/create",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "脚手架初始化",
   "keywords": [
     "init"
