@@ -1,0 +1,7 @@
+38 error Error: Command failed: git tag @smallwebbird/create@1.0.2 -m @smallwebbird/create@1.0.2
+38 error fatal: tag '@smallwebbird/create@1.0.2' already exists
+38 error
+38 error     at makeError (/Users/bytedance/Desktop/npm package/smallwebbird/node_modules/execa/index.js:174:9)
+38 error     at /Users/bytedance/Desktop/npm package/smallwebbird/node_modules/execa/index.js:278:16
+38 error     at processTicksAndRejections (internal/process/task_queues.js:93:5)
+38 error     at async Promise.all (index 0)

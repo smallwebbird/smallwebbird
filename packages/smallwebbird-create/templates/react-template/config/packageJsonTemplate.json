@@ -1,0 +1,16 @@
+{
+  "name": "hello-smallwebbird",
+  "dependencies": {
+    "react": "^16",
+    "react-dom": "^16"
+  },
+  "devDependencies": {
+    "smallwebbird": "^0.0.03"
+  },
+  "scripts": {
+      "dev": "smallwebbird dev",
+      "build": "smallwebbird build",
+      "start": "smallwebbird start",
+      "preview": "smallwebbird deploy --mode preview"
+    }
+}
