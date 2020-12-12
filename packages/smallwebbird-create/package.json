@@ -1,6 +1,6 @@
 {
   "name": "@smallwebbird/create",
-  "version": "1.0.2",
+  "version": "1.0.1",
   "description": "脚手架初始化",
   "keywords": [
     "init"
@@ -27,5 +27,5 @@
   "bugs": {
     "url": "https://github.com/smallwebbird/smallwebbird/issues"
   },
-  "gitHead": "3df5865353f7ca32bd58a8088105fd3306b07743"
+  "gitHead": "f68733430144dafa6e37a509f57e5ef17aa77c1f"
 }
